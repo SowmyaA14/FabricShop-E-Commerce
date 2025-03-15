@@ -1,4 +1,4 @@
-![FabricShop](https://github.com/user-attachments/assets/4c04c264-24e5-4544-9ee2-60b032609c79)# 🛍️ FabricShop
+# 🛍️ FabricShop
 
 Online Clothing Store using the MERN stack
 
