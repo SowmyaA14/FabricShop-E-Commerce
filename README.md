@@ -1,8 +1,10 @@
-# 🛍️ FabricShop
+![FabricShop](https://github.com/user-attachments/assets/4c04c264-24e5-4544-9ee2-60b032609c79)# 🛍️ FabricShop
 
 Online Clothing Store using the MERN stack
 
-![🖼️ Screenshot](https://ibb.co/chbMd281/Screenshot-5.png)
+🖼️ Screenshot![FabricShop](https://github.com/user-attachments/assets/a1ba72ac-85b1-4036-84d3-83619f17964e)
+
+
 
 ## ✨ Features
 
