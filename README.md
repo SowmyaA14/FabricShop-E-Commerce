@@ -2,7 +2,7 @@
 
 Online Clothing Store using the MERN stack
 
-![🖼️ Screenshot](https://ibb.co/chbMd281.png)
+![🖼️ Screenshot](https://ibb.co/chbMd281/Screenshot-5.png)
 
 ## ✨ Features
 
