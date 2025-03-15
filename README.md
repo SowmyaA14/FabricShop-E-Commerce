@@ -2,7 +2,8 @@
 
 Online Clothing Store using the MERN stack
 
-![🖼️ Screenshot](https://i.ibb.co/kDtJPNy/clothshop.png)
+![🖼️ Screenshot](![Uploading image.png…]()
+)
 
 ## ✨ Features
 
