@@ -1,83 +1,70 @@
-# 🛍️ FabricShop
+# Getting Started with Create React App
 
-Online Clothing Store using the MERN stack
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-🖼️ Screenshot![FabricShop](https://github.com/user-attachments/assets/a1ba72ac-85b1-4036-84d3-83619f17964e)
+## Available Scripts
 
+In the project directory, you can run:
 
+### `yarn start`
 
-## ✨ Features
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- ⭐ Product reviews and ratings
-- 📄 Product pagination
-- 🔎 Product search feature
-- 👤 User profile with orders
-- 🛒 Full-featured shopping cart
-- 🛠️ Admin product management
-- 👥 Admin user management
-- 📦 Admin order details page
-- ✅ Mark orders as delivered option
-- 🚚 Checkout process (shipping, payment method, etc.)
-- 💳 PayPal / credit card integration
-- 📊 Database seeder (products & users)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## 🏗️ Technology Stack
+### `yarn test`
 
-- ⚡ Node.js
-- 🚀 Express.js
-- 🗄️ MongoDB
-- 🔐 JWT Authentication
-- ⚛️ React
-- 🎨 React Bootstrap
-- 🔄 Redux
-- 💰 React PayPal Button V2
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## 🛠️ Usage
+### `yarn build`
 
-### ⚙️ Environment Variables
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Create a `.env` file in the root directory and add the following:
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-```
-NODE_ENV=development
-PORT=5000
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-PAYPAL_CLIENT_ID=your_paypal_client_id
-```
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### 📦 Install Dependencies
+### `yarn eject`
 
-```
-npm install
-cd frontend
-npm install
-```
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### 🚀 Run the Application
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-```
-# Run frontend (:3000) & backend (:5000)
-npm run dev
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-# Run backend only
-npm run server
-```
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### 📊 Seed Database
+## Learn More
 
-You can use the following commands to seed the database with sample users and products, as well as to delete all data:
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-```
-# Import data
-npm run data:import
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-# Destroy data
-npm run data:destroy
-```
+### Code Splitting
 
-## ℹ️ Project Information
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-- **📌 Version:** 1.0.0
-- **📜 License:** MIT
-- **👩‍💻 Author:** Sowmya
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
